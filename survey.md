@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: red
+Favorite food: meat
+Favorite musician/band: eminem
+Favorite movie: batman
+Requested grade in the course: 100
